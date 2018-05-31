@@ -6,6 +6,7 @@
 
 ## mui.openWindow
 推荐使用的方法，mui内部做了一些其他的处理，问题是偶尔有bug，会出现页面打不开或者跳到别的页面(无法理解)
+详情的参数说明，可以看这个 [传送门](http://ask.dcloud.net.cn/article/12810)
 
 ```
 /**
@@ -91,4 +92,4 @@ function openWindow(params){
 
 ## 总结
 
-mui真难懂，特别是在页面逻辑方面不理想
+mui真难懂，特别是在页面逻辑方面不理想。
